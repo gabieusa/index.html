@@ -41,3 +41,22 @@
 </body>
 </html>
 	
+body{
+	background: grey;
+}
+
+#title, .subtitle, .post_title {
+	color:  blue;
+}
+
+.post_title {
+	font-size:  16px;
+	font-style: italic;
+}
+
+.post {
+	background: white;
+	padding: 10px;
+	border: 3px solid black;
+	margin: 10px;
+}
