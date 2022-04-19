@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
-	<head>
+	</head>
 	<body>
 		<header>
 			<img src="https://github.com/gabieusa/index.html/blob/main/gabi.jpg.jpg" alt="Ilustração do rosto Gabriela" height="50%" width="50%">
