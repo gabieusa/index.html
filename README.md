@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
-		<link rel="stylesheet" href="C:\Users\Gabi\Desktop\DIO\Teste\style.css.css"> 
+		<link rel="stylesheet" href="style.css"> 
 	</head>
 	<body>
 		<header>
