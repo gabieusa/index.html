@@ -3,7 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
-		<link rel="stylesheet" href="style.css"> 
+		<link rel="stylesheet" type="text/css" href="reset.css">
+  		<link rel="stylesheet" type="text/css" href="styles.css"> 
 	</head>
 	<body>
 		<header>
