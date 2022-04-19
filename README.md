@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
-		<link rel="stylesheet" href="https://github.com/gabieusa/index.html/blob/main/Style.css"> 
+		<link rel="stylesheet" href="style.css"> 
 	</head>
 	<body>
 		<header>
