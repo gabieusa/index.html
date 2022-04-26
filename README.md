@@ -9,8 +9,7 @@
 	</head>
 	<body>
 		<header>
-			<img src="https://github.com/gabieusa/index.html/blob/main/gabi.jpg.jpg" alt="Ilustração do rosto Gabriela" height="25%" width="25%" class="photo">
-			<link rel="stylesheet" type="gabi.jpg.jpg" href="https://github.com/gabieusa/index.html/blob/main/gabi.jpg.jpg">
+			<img src="https://github.com/gabieusa/index.html/blob/main/gabi.jpg.jpg" alt="Ilustração do rosto Gabriela" height="25%" width="25%" class="photo"><link rel="stylesheet" type="gabi.jpg.jpg" href="https://github.com/gabieusa/index.html/blob/main/gabi.jpg.jpg">
 			<h1 id="title">Gabriela Custodio</h1>
 		</header>
 		<section>
