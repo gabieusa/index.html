@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-
-</html>
+<html>
 	<head>
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
-		<link rel="stylesheet" href="style.css"> 
+		<link rel="stylesheet" href="style.css">  
 		<link rel="stylesheet" type="text/css" href="https://gabieusa.github.io/index.html/Style.css">
 	</head>
 	<body>
