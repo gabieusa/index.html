@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<title>Gabriela Custodio</title>
 		<link rel="stylesheet" href="style.css"> 
+	<link href= "https://gabieusa.github.io/index.html/Style.css" "stylesheet"/>
 	</head>
 	<body>
 		<header>
